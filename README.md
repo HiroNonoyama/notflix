@@ -1,1 +1,1 @@
-netflixを見すぎないように12時から14時の昼時にしかchromeから見られないようにするextensionです。
+Netflixを見すぎないようにする簡単なchrome extension
